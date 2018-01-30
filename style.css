@@ -1,0 +1,60 @@
+
+body {
+	height: 100%;
+}
+.bg { 
+	/* The image used */
+	background: url("https://images.freecreatives.com/wp-content/uploads/2015/12/Grey-Floral-Pattern-for-Website-Background.jpg") repeat center center;
+
+	/* Full height */
+	height: 100%; 
+
+}
+
+.container {
+	padding: 20px;
+}
+
+
+.tealBackground {
+	color: white;
+	padding: 20px;
+	background-color: #4aaaa5;
+}
+
+.miniThumbnail {
+height: 60px;
+width: 60 px;
+}
+
+.bigTealfont {
+	color: #4aaaa5;
+	background-color: white;
+	font-family: 'Georgia', Times, Times New Roman, serif;
+	font-weight: bold;
+}
+
+.smallerTealfont {
+	color: #4aaaa5;
+	background-color: white;
+	font-family: 'Georgia', Times, Times New Roman, serif;
+	font-weight: bold;
+	font-size: x-large
+}
+
+
+.sidebarFont {
+	color: #4aaaa5;
+	background-color: white;
+	font-family: 'Georgia', Times, Times New Roman, serif;
+	font-weight: bold;
+	text-align: center;
+}
+
+.grayBackground {
+	color: white;
+	padding: 20px;
+	background-color:  #666666;
+	text-align: center;
+	font-size: small;
+}
